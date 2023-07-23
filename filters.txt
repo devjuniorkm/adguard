@@ -1,4 +1,4 @@
 ! Custom Filtering Rules
 ||links.wusi647gk.xyz^$important
 ||d1zquzjgwo9yb.cloudfront.net^$important
-||/anime1.me/assets/*/
+||anime1.me^$image
