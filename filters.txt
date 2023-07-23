@@ -1,0 +1,4 @@
+! Custom Filtering Rules
+||links.wusi647gk.xyz^$important
+||d1zquzjgwo9yb.cloudfront.net^$important
+||a.anime1.me^$important
