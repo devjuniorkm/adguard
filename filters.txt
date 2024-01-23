@@ -4,3 +4,4 @@
 ||avdb.me^$important
 anime1.me##div[id^="ad-"]
 share.dmhy.org##div[align="center"] > a > img
+@@||sentry.io^$important
