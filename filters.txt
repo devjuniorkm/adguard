@@ -3,6 +3,7 @@
 ||d1zquzjgwo9yb.cloudfront.net^$important
 ||avdb.me^$important
 anime1.me##div[id^="ad-"]
+||anime1.me/assets/*.gif
 share.dmhy.org##div[align="center"] > a > img
 @@||sentry.io^$important
 ||img.fam-ad.com^$important
