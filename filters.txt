@@ -3,9 +3,8 @@
 ||d1zquzjgwo9yb.cloudfront.net^$important
 ||avdb.me^$important
 anime1.me##div[id^="ad-"]
-anime1.me^$image
 share.dmhy.org##div[align="center"] > a > img
-gimy.ai^##a
+gimy.ai##a[target="_blank"]
 @@||sentry.io^$important
 ||img.fam-ad.com^$important
 ||static.pc-adroute.focas.jp^$important
